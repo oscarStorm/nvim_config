@@ -31,7 +31,7 @@ return {
 	dependencies = {
 	    "nvim-tree/nvim-web-devicons",
 	},
-	opt = {
+	opts = {
 	    options = {
 		theme = 'everforest',
 	    }
